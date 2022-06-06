@@ -1,4 +1,4 @@
-//DARE CODE
+//Josephus-Problem using array in C
 #include<stdio.h>
 #include<stdlib.h>
 #define SIZE 100
